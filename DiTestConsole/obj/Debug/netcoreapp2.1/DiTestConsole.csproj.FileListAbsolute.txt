@@ -1,0 +1,14 @@
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/bin/Debug/netcoreapp2.1/DiTestConsole.deps.json
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/bin/Debug/netcoreapp2.1/DiTestConsole.runtimeconfig.json
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/bin/Debug/netcoreapp2.1/DiTestConsole.runtimeconfig.dev.json
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/bin/Debug/netcoreapp2.1/DiTestConsole.dll
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/bin/Debug/netcoreapp2.1/DiTestConsole.pdb
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/obj/Debug/netcoreapp2.1/DiTestConsole.csprojAssemblyReference.cache
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/obj/Debug/netcoreapp2.1/DiTestConsole.csproj.CoreCompileInputs.cache
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/obj/Debug/netcoreapp2.1/DiTestConsole.AssemblyInfoInputs.cache
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/obj/Debug/netcoreapp2.1/DiTestConsole.AssemblyInfo.cs
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/obj/Debug/netcoreapp2.1/DiTestConsole.dll
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/obj/Debug/netcoreapp2.1/DiTestConsole.pdb
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/bin/Debug/netcoreapp2.1/DiServices.dll
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/bin/Debug/netcoreapp2.1/DiServices.pdb
+/Users/sug/dev/dot-net-dev/Training/DiTestConsole/obj/Debug/netcoreapp2.1/DiTestConsole.csproj.CopyComplete

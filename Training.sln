@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiTestConsole", "DiTestConsole\DiTestConsole.csproj", "{33FD2468-66F0-4D39-8976-0CFD3DEC0066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiServices", "DiServices\DiServices.csproj", "{43080B23-3F66-4AB8-87BA-A33308CDD163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiTests", "DiTests\DiTests.csproj", "{3EA32CD8-E3E3-41F4-BA83-72F423508C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33FD2468-66F0-4D39-8976-0CFD3DEC0066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FD2468-66F0-4D39-8976-0CFD3DEC0066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FD2468-66F0-4D39-8976-0CFD3DEC0066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FD2468-66F0-4D39-8976-0CFD3DEC0066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43080B23-3F66-4AB8-87BA-A33308CDD163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43080B23-3F66-4AB8-87BA-A33308CDD163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43080B23-3F66-4AB8-87BA-A33308CDD163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43080B23-3F66-4AB8-87BA-A33308CDD163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA32CD8-E3E3-41F4-BA83-72F423508C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA32CD8-E3E3-41F4-BA83-72F423508C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA32CD8-E3E3-41F4-BA83-72F423508C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA32CD8-E3E3-41F4-BA83-72F423508C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+/Users/sug/dev/dot-net-dev/Training/DiServices/bin/Debug/netcoreapp2.1/DiServices.deps.json
+/Users/sug/dev/dot-net-dev/Training/DiServices/bin/Debug/netcoreapp2.1/DiServices.dll
+/Users/sug/dev/dot-net-dev/Training/DiServices/bin/Debug/netcoreapp2.1/DiServices.pdb
+/Users/sug/dev/dot-net-dev/Training/DiServices/obj/Debug/netcoreapp2.1/DiServices.csprojAssemblyReference.cache
+/Users/sug/dev/dot-net-dev/Training/DiServices/obj/Debug/netcoreapp2.1/DiServices.csproj.CoreCompileInputs.cache
+/Users/sug/dev/dot-net-dev/Training/DiServices/obj/Debug/netcoreapp2.1/DiServices.AssemblyInfoInputs.cache
+/Users/sug/dev/dot-net-dev/Training/DiServices/obj/Debug/netcoreapp2.1/DiServices.AssemblyInfo.cs
+/Users/sug/dev/dot-net-dev/Training/DiServices/obj/Debug/netcoreapp2.1/DiServices.dll
+/Users/sug/dev/dot-net-dev/Training/DiServices/obj/Debug/netcoreapp2.1/DiServices.pdb

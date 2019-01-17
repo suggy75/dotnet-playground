@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sug/dev/dot-net-dev/Training/DiTestConsole/DiTestConsole.csproj",
+    "projectName": "DiTestConsole",
+    "projectPath": "/Users/sug/dev/dot-net-dev/Training/DiTestConsole/DiTestConsole.csproj",
+    "outputPath": "/Users/sug/dev/dot-net-dev/Training/DiTestConsole/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/sug/dev/dot-net-dev/Training/DiServices/DiServices.csproj": {
+            "projectPath": "/Users/sug/dev/dot-net-dev/Training/DiServices/DiServices.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

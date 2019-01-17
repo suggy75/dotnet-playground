@@ -1,0 +1,17 @@
+/Users/sug/dev/dot-net-dev/Training/DiTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/sug/dev/dot-net-dev/Training/DiTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/sug/dev/dot-net-dev/Training/DiTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/sug/dev/dot-net-dev/Training/DiTests/bin/Debug/netcoreapp2.1/DiTests.deps.json
+/Users/sug/dev/dot-net-dev/Training/DiTests/bin/Debug/netcoreapp2.1/DiTests.runtimeconfig.json
+/Users/sug/dev/dot-net-dev/Training/DiTests/bin/Debug/netcoreapp2.1/DiTests.runtimeconfig.dev.json
+/Users/sug/dev/dot-net-dev/Training/DiTests/bin/Debug/netcoreapp2.1/DiTests.dll
+/Users/sug/dev/dot-net-dev/Training/DiTests/bin/Debug/netcoreapp2.1/DiTests.pdb
+/Users/sug/dev/dot-net-dev/Training/DiTests/bin/Debug/netcoreapp2.1/DiServices.dll
+/Users/sug/dev/dot-net-dev/Training/DiTests/bin/Debug/netcoreapp2.1/DiServices.pdb
+/Users/sug/dev/dot-net-dev/Training/DiTests/obj/Debug/netcoreapp2.1/DiTests.csprojAssemblyReference.cache
+/Users/sug/dev/dot-net-dev/Training/DiTests/obj/Debug/netcoreapp2.1/DiTests.csproj.CoreCompileInputs.cache
+/Users/sug/dev/dot-net-dev/Training/DiTests/obj/Debug/netcoreapp2.1/DiTests.AssemblyInfoInputs.cache
+/Users/sug/dev/dot-net-dev/Training/DiTests/obj/Debug/netcoreapp2.1/DiTests.AssemblyInfo.cs
+/Users/sug/dev/dot-net-dev/Training/DiTests/obj/Debug/netcoreapp2.1/DiTests.csproj.CopyComplete
+/Users/sug/dev/dot-net-dev/Training/DiTests/obj/Debug/netcoreapp2.1/DiTests.dll
+/Users/sug/dev/dot-net-dev/Training/DiTests/obj/Debug/netcoreapp2.1/DiTests.pdb

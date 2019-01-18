@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiServices", "DiServices\Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiTests", "DiTests\DiTests.csproj", "{3EA32CD8-E3E3-41F4-BA83-72F423508C93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trampoline", "Trampoline\Trampoline.csproj", "{A49A5D86-555E-4653-8573-44853C12D691}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{3EA32CD8-E3E3-41F4-BA83-72F423508C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EA32CD8-E3E3-41F4-BA83-72F423508C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EA32CD8-E3E3-41F4-BA83-72F423508C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49A5D86-555E-4653-8573-44853C12D691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49A5D86-555E-4653-8573-44853C12D691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49A5D86-555E-4653-8573-44853C12D691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49A5D86-555E-4653-8573-44853C12D691}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

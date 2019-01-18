@@ -1,0 +1,11 @@
+/Users/sug/dev/dot-net-dev/Training/Trampoline/bin/Debug/netcoreapp2.1/Trampoline.deps.json
+/Users/sug/dev/dot-net-dev/Training/Trampoline/bin/Debug/netcoreapp2.1/Trampoline.runtimeconfig.json
+/Users/sug/dev/dot-net-dev/Training/Trampoline/bin/Debug/netcoreapp2.1/Trampoline.runtimeconfig.dev.json
+/Users/sug/dev/dot-net-dev/Training/Trampoline/bin/Debug/netcoreapp2.1/Trampoline.dll
+/Users/sug/dev/dot-net-dev/Training/Trampoline/bin/Debug/netcoreapp2.1/Trampoline.pdb
+/Users/sug/dev/dot-net-dev/Training/Trampoline/obj/Debug/netcoreapp2.1/Trampoline.csprojAssemblyReference.cache
+/Users/sug/dev/dot-net-dev/Training/Trampoline/obj/Debug/netcoreapp2.1/Trampoline.csproj.CoreCompileInputs.cache
+/Users/sug/dev/dot-net-dev/Training/Trampoline/obj/Debug/netcoreapp2.1/Trampoline.AssemblyInfoInputs.cache
+/Users/sug/dev/dot-net-dev/Training/Trampoline/obj/Debug/netcoreapp2.1/Trampoline.AssemblyInfo.cs
+/Users/sug/dev/dot-net-dev/Training/Trampoline/obj/Debug/netcoreapp2.1/Trampoline.dll
+/Users/sug/dev/dot-net-dev/Training/Trampoline/obj/Debug/netcoreapp2.1/Trampoline.pdb

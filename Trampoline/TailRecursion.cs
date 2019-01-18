@@ -20,7 +20,7 @@ namespace Trampoline
 
         public void Go(BigInteger n)
         {
-            Console.WriteLine($"{Factoral(n)}");
+            Factoral(n);
         }
     }
 }
